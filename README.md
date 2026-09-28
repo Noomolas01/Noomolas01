@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Muhammad !
 
-<!--
-**Noomolas01/Noomolas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am a 3rd year gameplay programmer student at Isart Digital. I'm really interested in Game AI, emergent gameplay mechanics and strong narrative games.
 
-Here are some ideas to get you started:
+## Skills
+- C#/.NET
+- Unity
+- Godot
+- Unreal
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
